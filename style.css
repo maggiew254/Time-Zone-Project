@@ -1,0 +1,8 @@
+#countries {
+  font-size: 22px;
+  border-radius: 8px;
+  background-color: lightgray;
+  color: black;
+  border: 3px solid lightseagreen;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+}
